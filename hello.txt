@@ -1,3 +1,4 @@
 hello git!
 wow!
 cool!
+good!
